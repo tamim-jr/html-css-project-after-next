@@ -58,7 +58,7 @@ ul li a:hover{
 .home::before{
     content: "";
     position: absolute;
-    background:url(/apple-background.jpg) no-repeat center center/cover;
+    background:url(https://raw.githubusercontent.com/tamim-jr/html-css-project-after-next/main/apple-background.jpg) no-repeat center center/cover;
     top: 0px;
     left: 0px;
     width: 100%;
